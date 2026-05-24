@@ -1,1 +1,0 @@
-# Even-odd-number.c
